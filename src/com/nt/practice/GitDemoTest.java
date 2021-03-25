@@ -9,6 +9,7 @@ public class GitDemoTest {
 		System.out.println("added for third time");
 		System.out.println("added for fourth time");
 		System.out.println("one line");
+		System.out.println("one line");
 
 	}
 
